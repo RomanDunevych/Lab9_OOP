@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Roman\\source\\repos\\Lab9_OOP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{91BD9B2C-A99E-41BB-B8CB-FAA4ED131491}|Lab9_OOP\\Lab9_OOP.vcxproj|C:\\Users\\Roman\\source\\repos\\Lab9_OOP\\Lab9_OOP\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{91BD9B2C-A99E-41BB-B8CB-FAA4ED131491}|Lab9_OOP\\Lab9_OOP.vcxproj|solutionrelative:Lab9_OOP\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91BD9B2C-A99E-41BB-B8CB-FAA4ED131491}|Lab9_OOP\\Lab9_OOP.vcxproj|C:\\Users\\Roman\\source\\repos\\Lab9_OOP\\Lab9_OOP\\D2.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{91BD9B2C-A99E-41BB-B8CB-FAA4ED131491}|Lab9_OOP\\Lab9_OOP.vcxproj|solutionrelative:Lab9_OOP\\D2.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91BD9B2C-A99E-41BB-B8CB-FAA4ED131491}|Lab9_OOP\\Lab9_OOP.vcxproj|C:\\Users\\Roman\\source\\repos\\Lab9_OOP\\Lab9_OOP\\D1.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{91BD9B2C-A99E-41BB-B8CB-FAA4ED131491}|Lab9_OOP\\Lab9_OOP.vcxproj|solutionrelative:Lab9_OOP\\D1.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91BD9B2C-A99E-41BB-B8CB-FAA4ED131491}|Lab9_OOP\\Lab9_OOP.vcxproj|C:\\Users\\Roman\\source\\repos\\Lab9_OOP\\Lab9_OOP\\B3.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{91BD9B2C-A99E-41BB-B8CB-FAA4ED131491}|Lab9_OOP\\Lab9_OOP.vcxproj|solutionrelative:Lab9_OOP\\B3.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91BD9B2C-A99E-41BB-B8CB-FAA4ED131491}|Lab9_OOP\\Lab9_OOP.vcxproj|C:\\Users\\Roman\\source\\repos\\Lab9_OOP\\Lab9_OOP\\B2.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{91BD9B2C-A99E-41BB-B8CB-FAA4ED131491}|Lab9_OOP\\Lab9_OOP.vcxproj|solutionrelative:Lab9_OOP\\B2.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91BD9B2C-A99E-41BB-B8CB-FAA4ED131491}|Lab9_OOP\\Lab9_OOP.vcxproj|C:\\Users\\Roman\\source\\repos\\Lab9_OOP\\Lab9_OOP\\B1.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{91BD9B2C-A99E-41BB-B8CB-FAA4ED131491}|Lab9_OOP\\Lab9_OOP.vcxproj|solutionrelative:Lab9_OOP\\B1.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91BD9B2C-A99E-41BB-B8CB-FAA4ED131491}|Lab9_OOP\\Lab9_OOP.vcxproj|C:\\Users\\Roman\\source\\repos\\Lab9_OOP\\Lab9_OOP\\Lab9_OOP.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{91BD9B2C-A99E-41BB-B8CB-FAA4ED131491}|Lab9_OOP\\Lab9_OOP.vcxproj|solutionrelative:Lab9_OOP\\Lab9_OOP.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Source.cpp",
+              "DocumentMoniker": "C:\\Users\\Roman\\source\\repos\\Lab9_OOP\\Lab9_OOP\\Source.cpp",
+              "RelativeDocumentMoniker": "Lab9_OOP\\Source.cpp",
+              "ToolTip": "C:\\Users\\Roman\\source\\repos\\Lab9_OOP\\Lab9_OOP\\Source.cpp",
+              "RelativeToolTip": "Lab9_OOP\\Source.cpp",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAwBkAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-06T11:41:48.597Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "D2.h",
+              "DocumentMoniker": "C:\\Users\\Roman\\source\\repos\\Lab9_OOP\\Lab9_OOP\\D2.h",
+              "RelativeDocumentMoniker": "Lab9_OOP\\D2.h",
+              "ToolTip": "C:\\Users\\Roman\\source\\repos\\Lab9_OOP\\Lab9_OOP\\D2.h",
+              "RelativeToolTip": "Lab9_OOP\\D2.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-06T11:41:42.622Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "D1.h",
+              "DocumentMoniker": "C:\\Users\\Roman\\source\\repos\\Lab9_OOP\\Lab9_OOP\\D1.h",
+              "RelativeDocumentMoniker": "Lab9_OOP\\D1.h",
+              "ToolTip": "C:\\Users\\Roman\\source\\repos\\Lab9_OOP\\Lab9_OOP\\D1.h",
+              "RelativeToolTip": "Lab9_OOP\\D1.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-06T11:41:25.634Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "B3.h",
+              "DocumentMoniker": "C:\\Users\\Roman\\source\\repos\\Lab9_OOP\\Lab9_OOP\\B3.h",
+              "RelativeDocumentMoniker": "Lab9_OOP\\B3.h",
+              "ToolTip": "C:\\Users\\Roman\\source\\repos\\Lab9_OOP\\Lab9_OOP\\B3.h",
+              "RelativeToolTip": "Lab9_OOP\\B3.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-06T11:41:11.241Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "B2.h",
+              "DocumentMoniker": "C:\\Users\\Roman\\source\\repos\\Lab9_OOP\\Lab9_OOP\\B2.h",
+              "RelativeDocumentMoniker": "Lab9_OOP\\B2.h",
+              "ToolTip": "C:\\Users\\Roman\\source\\repos\\Lab9_OOP\\Lab9_OOP\\B2.h",
+              "RelativeToolTip": "Lab9_OOP\\B2.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-06T11:41:00.213Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "B1.h",
+              "DocumentMoniker": "C:\\Users\\Roman\\source\\repos\\Lab9_OOP\\Lab9_OOP\\B1.h",
+              "RelativeDocumentMoniker": "Lab9_OOP\\B1.h",
+              "ToolTip": "C:\\Users\\Roman\\source\\repos\\Lab9_OOP\\Lab9_OOP\\B1.h",
+              "RelativeToolTip": "Lab9_OOP\\B1.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-06T11:40:40.928Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Lab9_OOP.cpp",
+              "DocumentMoniker": "C:\\Users\\Roman\\source\\repos\\Lab9_OOP\\Lab9_OOP\\Lab9_OOP.cpp",
+              "RelativeDocumentMoniker": "Lab9_OOP\\Lab9_OOP.cpp",
+              "ToolTip": "C:\\Users\\Roman\\source\\repos\\Lab9_OOP\\Lab9_OOP\\Lab9_OOP.cpp",
+              "RelativeToolTip": "Lab9_OOP\\Lab9_OOP.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-06T11:40:09.983Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
